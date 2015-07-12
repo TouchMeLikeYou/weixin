@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // 新相机报价部分进口
+    
+    // 不得覅我
 }
 
 - (void)didReceiveMemoryWarning {
